@@ -1,8 +1,9 @@
 # MyFirstRepository
 Мой первый репозиторий на GitHub
 
+
 > [!NOTE]
-> ## Цель создания:
+> ### Цель создания:
 > * Изучить Git
 > * Ознакомиться с возможностями GitHub
 > * Ознакомиться с синтаксисом Markdown
@@ -32,7 +33,7 @@
 >}
 >```
 
-<ins>Для знакомства с Markdown использовались:</ins>
+<ins>В данном случае для знакомства с Markdown использовались:</ins>
 [^1]: [Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 [^2]: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
