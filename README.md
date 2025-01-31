@@ -9,7 +9,7 @@
 > * Понять как взамодействует данная система СКВ c создаваемыми файлами с кодом.
 
 > [!IMPORTANT]
-> ## Пример рандомного кода на C#, чтоб понять как он будет выглядеть тут с применением Markdown:
+> ### Пример кода на C#, чтоб понять как он будет выглядеть тут с применением Markdown [^1] [^2]:
 >```c#
 >using System;
 >
@@ -31,4 +31,8 @@
 >    }
 >}
 >```
+
+<ins>Для знакомства с Markdown использовались:</ins>
+[^1]: [Базовый синтаксис записи и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+[^2]: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
